@@ -20,7 +20,11 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+
 ```
+Name : Sivasakthi S
+Reg No : 212225240151
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -55,12 +59,9 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 plt.show()
 
-
 ```
-
 # Output 
+<img width="870" height="743" alt="Screenshot 2026-03-13 180952" src="https://github.com/user-attachments/assets/0912a572-d1e5-461f-a2e2-d18c6ba0fd7e" />
 
 # Result
-Result
 The given data shows a positive correlation between X and Y, and the regression line represents their relationship.
-
